@@ -25,6 +25,14 @@ file = "config/sparsestructures.json5"
 hash = "d4e931281edd1a7f32c43caca4743239dee3c79404fcfdce42d7f2acdf3c4344"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "f06b2452cec58f6357c69271668fbf3f50133a9a92375b117439e9671a62225c"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "242060ec1e0b85b76bfdad7daf8518505a6793ee666f76e9290175f6bc64b843"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
