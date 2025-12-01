@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Geyser-Fabric/config.yml"
-hash = "fb8e1ba1efda85352291e381575d343becb5337b954a63dfafac71ba821540bf"
+hash = "d0c32c7ce41174ebc308f990da79eec539fabd537599a6e26b8aa1f3cf1d88a4"
 
 [[files]]
 file = "config/Geyser-Fabric/packs/Bedrock Tweaks.mcpack"
