@@ -1,12 +1,12 @@
 name = "JacobCXDev's Pack"
 author = "JacobCXDev"
-version = "0.0.5"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "45407a4f00e883c5dbd9cf6aa5b118dd675fcfdde56787fbd32623d693780887"
+hash = "6c32fa196703e1aef86c7609abdf9b108df3eee01fc4f6670eefad385174a8af"
 
 [versions]
 fabric = "0.18.1"
